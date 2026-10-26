@@ -1,0 +1,6 @@
+{
+  "name": "AeroPrep - Stok & Motor İş Hazırlık Sistemi",
+  "description": "Havacılık bakım operasyonları için yerel XLSX tabanlı stok yönetimi, motor iş hazırlığı, kontrollü alternatif parça onaylama ve iş arşivleme sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
